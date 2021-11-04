@@ -153,10 +153,11 @@ section {
 .section-title{
     font-size: 55px;
   color: #024e76;
+  display: inline-block;
   margin-bottom: 35px;
   padding: 0 100px 20px 100px;
-  display: inline-block;
   border-bottom: 3px solid;
+  margin-bottom: 35px;
 }
 
 .primary-border{
@@ -252,6 +253,8 @@ section {
 .contact-info iframe {
     width: 400px;
     height: 400px;
+    float: left;
+    
     
 }
 
@@ -262,6 +265,8 @@ section {
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
+    display: inline;
+    
 }
 
 .contact-info h3 {
@@ -274,6 +279,7 @@ section {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    
 }
 
 .contact-info a{
