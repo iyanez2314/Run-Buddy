@@ -1,6 +1,6 @@
 
 # Run-Buddy INC.
-=======
+
 # Run Buddy, Inc
 
 
@@ -14,7 +14,6 @@ A website that offers fitness training services.
 ## Website
 https://lernantino.github.io/run-buddy/
 
-## Contribution
-Made with ❤️ by [your name]
+## ContributionIsaac Yanez
 
 ### ©️2019 Run Buddy, In
